@@ -16,26 +16,46 @@ Deleting a PDB properly and completely
 All steps are supported with screenshots organized into structured folders.
 
  Project Structure
+ 
 2nd Assignment/
 │
+
 ├── OEM Dashboard/
+
 │   ├── Accessing OEM.png
+
 │   ├── Checking for listener.png
+
 │   └── OEM Dashboard.png
+
+
 │
 ├── PDB Creation/
+
 │   ├── Creation of PDB.png
+
 │   ├── Displaying PDB.png
+
 │   ├── Open PDB.png
+
 │   ├── Saving PDB.png
+
 │   └── Switching to PDB.png
+
+
 │
 └── PDB Deletion/
+
     ├── Creating Temp PDB.png
+    
     ├── Opening Temp PDB.png
+    
     ├── Saving Temp PDB.png
+    
     ├── Showing availability of Temp PDB.png
+    
     └── Deletion of Temp PDB.png
+    
 
  Part 1: Oracle Enterprise Manager (OEM) Dashboard
  Objective
