@@ -158,6 +158,9 @@ Understanding PDB lifecycle management
  Author
 
 Student Name: Jibu Joyau Joseph
+
 Issues Encountered: NO
+
 Course: Database Development with PL/SQL
+
 Assignment: 2nd Assignment – Oracle 21c PDB Management
